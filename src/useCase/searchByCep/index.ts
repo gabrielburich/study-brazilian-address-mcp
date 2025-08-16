@@ -1,6 +1,6 @@
 import type { Address } from "./type"
 
-async function searchByCepUseCase(cep: string): Promise<Address> {
+async function searchByCepUseCase(cep: number): Promise<Address> {
     try {
         const url = `https://viacep.com.br/ws/${cep}/json/`;
         const response = await fetch(url);
