@@ -4,8 +4,6 @@ Repository to study MCP Servers.
 
 This MCP server has a tool to search Address information by CEP.
 
-There is a [little post on my blog](https://www.fastcodetips.com.br/2025/08/criando-mcp-server-com-typescript.html) with more context of this repo.
-
 # Project strucutre
 
 ```
