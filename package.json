@@ -1,0 +1,16 @@
+{
+  "name": "study-brazilian-address-mcp",
+  "version": "1.0.0",
+  "description": "Repository to study MCP Servers",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "run": "npm run build && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
